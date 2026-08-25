@@ -2,76 +2,126 @@
 
 📊 Aspiring Data Analyst | Python • SQL • Power BI • Excel
 
-Turning data into meaningful insights and decisions.
+«Turning raw data into actionable insights and better decisions.»
 
 ---
 
 🚀 About Me
 
-- 📊 Aspiring Data Analyst
-- 🐍 Learning and building projects with Python
-- 🗄️ Working with SQL for data analysis
-- 🐼 Using Pandas for data cleaning and analysis
-- 📈 Creating dashboards with Power BI
-- 📊 Working with Excel for analysis and visualization
-- 💻 Building practical Data Analysis projects
-- 🌐 Check out my Portfolio: "My Portfolio" (https://matinkazi4545-stack.github.io)
+I'm an aspiring Data Analyst focused on transforming raw and complex datasets into meaningful insights through data cleaning, exploratory analysis, visualization, and business-focused reporting.
+
+I enjoy working with data to discover patterns, answer real-world questions, and build dashboards that make information easier to understand and act upon.
+
+🎯 Current Focus: Data Analytics & Business Intelligence
+📊 Core Areas: Data Cleaning • EDA • Data Visualization • SQL Analysis • Dashboarding
+🐍 Primary Tool: Python
+📈 Visualization: Power BI • Excel • Tableau
+🌐 Portfolio: "View My Portfolio" (https://matinkazi4545-stack.github.io)
 
 ---
 
-🛠️ Skills
+🧠 Technical Skills
 
-Programming & Data Analysis
+🐍 Programming & Data Analysis
 
-- Python
-- SQL
-- Pandas
-- NumPy
-- Matplotlib
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+"Matplotlib" (https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-Data Visualization
+🗄️ Database & Querying
 
-- Power BI
-- Excel
-- Tableau
+"SQL" (https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Web & Other
+📊 Business Intelligence & Visualization
 
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+"Power BI" (https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+"Excel" (https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+"Tableau" (https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
+💻 Web & Development
 
-📂 Featured Projects
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-🔹 Data Analysis Projects
-Python, Pandas, SQL and visualization-based projects.
+🛠️ Tools
 
-🔹 Data Analysis Learning
-My learning journey, practice programs and data analysis concepts.
-
-🔹 Portfolio Website
-My personal portfolio showcasing my skills and projects.
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-📈 Currently Learning
+📈 What I Do With Data
 
-- Advanced Python for Data Analysis
-- SQL
-- Power BI
-- Data Visualization
-- Statistics for Data Analysis
-- Real-world Data Analytics Projects
+Raw Data
+   ↓
+Data Cleaning & Preparation
+   ↓
+Exploratory Data Analysis
+   ↓
+SQL / Python Analysis
+   ↓
+Visualization & Dashboarding
+   ↓
+Insights & Business Decisions
 
 ---
 
-🌐 Connect With Me
+📂 Featured Work
 
-- 💻 "GitHub" (https://github.com/matinkazi4545-stack)
-- 💼 LinkedIn" (https://www.linkedin.com/in/)
+📊 Data Analysis Projects
+
+Real-world analysis using Python, Pandas, SQL, visualization and statistical techniques.
+
+📚 Data Analysis Learning
+
+A structured collection of my learning, practice, concepts and hands-on exercises while building my Data Analytics skills.
+
+🌐 Personal Portfolio
+
+My portfolio showcases my skills, projects, learning journey and work in Data Analytics.
+
+👉 "Explore My Portfolio" (https://matinkazi4545-stack.github.io)
+
 ---
 
-💡 "Turning Data into Insights, Insights into Decisions."
+🎯 Currently Working On
+
+- 📊 Building real-world Data Analysis projects
+- 🐍 Improving Python & Pandas for analytics
+- 🗄️ Strengthening SQL and database querying
+- 📈 Creating interactive Power BI dashboards
+- 📚 Learning statistics for Data Analytics
+- 💼 Building a strong Data Analyst portfolio
+
+---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matinkazi4545-stack&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinkazi4545-stack&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>---
+
+🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=matinkazi4545-stack&theme=tokyonight&hide_border=true" />
+</p>---
+
+🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/matinkazi4545-stack">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://matinkazi4545-stack.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>---
+
+💡 "Data is valuable when it leads to better decisions."
