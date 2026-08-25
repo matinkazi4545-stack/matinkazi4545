@@ -71,8 +71,7 @@ My personal portfolio showcasing my skills and projects.
 🌐 Connect With Me
 
 - 💻 "GitHub" (https://github.com/matinkazi4545-stack)
-- 🌐 "Portfolio" (https://matinkazi4545-stack.github.io)
-- 💼 LinkedIn" 
+- 💼 LinkedIn" (https://www.linkedin.com/in/)
 ---
 
 💡 "Turning Data into Insights, Insights into Decisions."
