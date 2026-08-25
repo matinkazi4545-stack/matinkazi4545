@@ -79,12 +79,10 @@ My portfolio showcases my skills, projects, learning journey and work in Data An
   <a href="https://github.com/matinkazi4545-stack">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://matinkazi4545-stack.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+
 </p>---
 
 💡 "Data is valuable when it leads to better decisions."
